@@ -1,0 +1,24 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "umecraftアドオンを入れて、minecraftをもっと楽しもう!",
+        "name": "umecraft v1.0.0 beta",
+        "uuid": "60c0ea54-b250-4bba-8906-64193ba902ff",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 12, 0]
+    },
+    "modules": [
+        {
+            "description": "umecraft v1.0.0 beta",
+            "type": "resources",
+            "uuid": "60c0ea54-b250-4bba-8906-64193ba902ff",
+            "version":[1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid":"60c0ea54-b250-4bba-8906-64193ba902ff",
+            "version":[1, 0, 0]
+        }
+    ]
+}
